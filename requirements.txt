@@ -1,0 +1,5 @@
+Django==4.0.6
+django-rest-framework==0.1.0
+djangorestframework==3.13.1
+urllib3==1.25.11
+virtualenv==20.23.0
